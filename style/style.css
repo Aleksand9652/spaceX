@@ -238,4 +238,7 @@ body {
         .footer {
             padding-top: 80px;
         }
+        .footer-text {
+            text-align: center;
+        }
     }
